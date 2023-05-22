@@ -778,6 +778,12 @@ body {
 
 }
 
+@media screen and (min-width: 1920px) {
+    body {
+        zoom: 130%;
+    }
+}
+
 .first-picanim {
     width: 400px;
     opacity: 1;
